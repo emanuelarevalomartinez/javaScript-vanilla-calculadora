@@ -1,0 +1,47 @@
+#contenedor{
+  width: 281px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.informacion{
+  display: flex;
+}
+
+.calculadora{
+  display: flex;
+  flex-wrap: wrap;
+  background-color: rgb(30, 113, 176);
+  width: 280px;
+  height: 440px;
+  justify-content: space-around;
+}
+
+#barraParaEscribir{
+  text-align: end;
+  font-size: 20px;
+  width: 400px;
+  height: 60px;
+}
+
+
+.boton{
+  border-radius: 10px;
+  font-size: 30px;
+  width: 60px;
+  height: 60px;
+  margin: 5px;
+}
+
+#igual{
+  width: 278px;
+  margin: 7px;
+}
+
+
+#info{
+  color: blue;
+}
