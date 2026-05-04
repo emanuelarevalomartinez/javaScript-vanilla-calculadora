@@ -51,7 +51,7 @@ The project focuses on implementing calculation logic and interface interaction 
 Clone the repository:
 
 ```bash
-git clone https://github.com/emanuelarevalomartinez/javaScript-vanilla-calculadora
+git clone https://github.com/emanuelarevalomartinez/javaScript-vanilla-calculadora.git
 ```
 
 Navigate into the project:
